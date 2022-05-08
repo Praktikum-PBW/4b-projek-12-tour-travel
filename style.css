@@ -1,0 +1,18 @@
+body {
+  background-color: dodgerblue;
+}
+.img-back-1 {
+  position: absolute;
+  top: 2rem;
+  left: 5rem;
+  width: 250px;
+  z-index: -999;
+}
+
+.img-back-2 {
+  position: absolute;
+  bottom: 2rem;
+  right: 2rem;
+  width: 740px;
+  z-index: -999;
+}
